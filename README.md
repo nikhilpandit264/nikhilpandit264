@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring IT Professional – Pursuing a B.Tech in Information Technology from ABES Engineering College with a CGPA of 8.00 (till the 3rd semester).<br>Tech Enthusiast – Skilled in web development, problem-solving, and data science, with knowledge of programming languages like Java, Python, C, and JavaScript.<br>Project-Oriented – Developed projects such as a Hospital Management System, YouTube Clone, and Spotify Clone, showcasing expertise in ReactJS, PHP, and Tailwind CSS.<br>Active Learner & Certified – Earned certifications in ReactJS, Java, Python, Data Science, and Web Development, constantly improving technical skills.
+Web development and problem-solving are at the core of my interests as a B.Tech IT student at ABES Engineering College. I enjoy building responsive, user-friendly applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and have applied these skills through various hands-on projects.
+I regularly strengthen my skills in Data Structures and Algorithms by solving problems on LeetCode and HackerRank, helping me write cleaner, more efficient code.
+Currently, I’m looking for opportunities—internships or team-based projects—where I can grow as a full-stack developer, apply my knowledge, and gain valuable real-world experience.Web development and problem-solving are a
 
 
 ## 🌐 Socials:
